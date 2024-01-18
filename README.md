@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyass_1" target="blank"><img src="https://img.shields.io/twitter/follow/shreyass_1?logo=twitter&style=for-the-badge" alt="shreyass_1" /></a> </p>
 
-- 🌱 I’m currently learning **GO Lang, Node JS, Express**
+- 🌱 I’m currently learning **TypeScript, Node JS, Express, GO Lang,**
 
 - 💬 Ask me about **JavaScript, React, SQL, DSA**
 
