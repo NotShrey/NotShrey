@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate Fullstack Web developer from India</h3>
 
-- 🌱 I’m currently learning **GO Lang, NextJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Node JS, Express, SQL, DSA**
 
